@@ -12,6 +12,14 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>NSCameraUsageDescription</key>
+<string>Camera access is required to participate in meetings.</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>Microphone access is required to participate in meetings.</string>
+<key>NSCameraUsageDescription</key>
+<string>Camera access is needed for video conferencing.</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>Microphone access is needed for audio conferencing.</string>
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
